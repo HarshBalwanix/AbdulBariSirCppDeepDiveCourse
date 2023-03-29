@@ -1,0 +1,1 @@
+// just solution of sum of first n natural numbers

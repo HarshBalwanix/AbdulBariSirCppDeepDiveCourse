@@ -1,0 +1,7 @@
+/*
+why we have pointers
+program can access program memory and stack memory only 
+pointer helps to access heap memory
+accessing anything other than program is done through pointers
+
+*/
